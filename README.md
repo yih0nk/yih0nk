@@ -3,7 +3,9 @@
 I want to move people — whether that is through music, or through software that makes their life a little better.
 
 Builder-researcher at USC. I ship AI products, do ML research, and run campus orgs.
-Most interested in the intersection of AI and things that matter: healthcare, education, robotics.
+Most interested in the intersection of AI and things that matter. 
+
+yihanhon@usc.edu · [yihan.dev](https://yihan.dev)
 
 ---
 
@@ -46,7 +48,3 @@ Most interested in the intersection of AI and things that matter: healthcare, ed
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
----
-
-yihanhon@usc.edu · [yihan.dev](https://yihan.dev)
