@@ -1,11 +1,9 @@
 # Yihan Hong
 
-I want to move people — whether that is through music, or through software that makes their life a little better.
+Builder-researcher at USC. I ship AI products, do ML research, and run campus orgs.  
+Most interested in the intersection of AI and things that matter.  
 
-Builder-researcher at USC. I ship AI products, do ML research, and run campus orgs.
-Most interested in the intersection of AI and things that matter. 
-
-Say hi at 📩: yihanhon@usc.edu 
+Say hi at 📩: yihanhon@usc.edu  
 My website: [yihan.dev](https://yihan.dev)
 
 ---
