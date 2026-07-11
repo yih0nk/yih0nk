@@ -5,7 +5,8 @@ I want to move people — whether that is through music, or through software tha
 Builder-researcher at USC. I ship AI products, do ML research, and run campus orgs.
 Most interested in the intersection of AI and things that matter. 
 
-yihanhon@usc.edu · [yihan.dev](https://yihan.dev)
+Say hi at 📩: yihanhon@usc.edu 
+My website: [yihan.dev](https://yihan.dev)
 
 ---
 
